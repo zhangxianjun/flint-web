@@ -1,7 +1,6 @@
 import React from 'react';
 
-// 变量声明
-// const element = <h1>Hello, world!</h1>;
+
 
 // 函数组件与 class 组件
 
